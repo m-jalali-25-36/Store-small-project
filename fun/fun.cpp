@@ -1,0 +1,6 @@
+#include "welcome.cpp"
+#include "firstPanel.cpp"
+#include "customerPanel.cpp"
+#include "employeePanel.cpp"
+#include "loginPanel.cpp"
+#include "helpPanel.cpp"
